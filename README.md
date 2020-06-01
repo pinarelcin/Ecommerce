@@ -14,7 +14,8 @@ What i consider is in the future I can offer them different projects and their f
 Features Left to Implement
 Html5 & Css are base but Flexbox,Bootstrap will be used to set up forms, nav bars, buttons and modals..
 
-
+bootstrap hatch adress icin
+https://glyphicons.bootstrapcheatsheets.com/ for icons
 JQuery
 The project uses JQuery to simplify DOM manipulation.
 
