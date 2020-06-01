@@ -7,12 +7,12 @@ I would like to set up a page where they can express their needs and targets.
 They may not be technically skilled but I will give them a chance to express themselves in their terminology
 Features
 I will give them option for their targets and share with them different projects.
-
+I am using Balsamiq for low fidelity mockups. I tried Adobe XD. Even though it offered higher clearity, I do not have the skill yet :/
 Existing Features
 What i consider is in the future I can offer them different projects and their fixed costs and offer multiple modifications with approximate costs-
 
 Features Left to Implement
-Html5 & Css are base but Bootstrap will be used to set up forms, nav bars, buttons and modals..
+Html5 & Css are base but Flexbox,Bootstrap will be used to set up forms, nav bars, buttons and modals..
 
 
 JQuery
