@@ -69,3 +69,6 @@ Media
 The photos used in this site were obtained from ...
 Acknowledgements
 I received inspiration for this project from https://qarea.com/  https://millermedia7.com/
+For Logo I used looka.com for free service
+for texts I took from https://fullstacksolution.net/ecommerce_web_development.html# and modify a bit
+
